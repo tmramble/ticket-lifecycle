@@ -9,7 +9,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: Submitting Tickets, Assigning Tickets, Resolving Tickets and Checking Ticket Status](https://www.youtube.com)
+- ### [YouTube: Submitting Tickets, Assigning Tickets, Resolving Tickets and Checking Ticket Status](https://youtu.be/3WtJQV5fEHI?si=a-9oJSuWvgjqYea9)
 
 <h2>Environments and Technologies Used</h2>
 
